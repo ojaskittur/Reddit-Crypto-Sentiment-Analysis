@@ -13,7 +13,7 @@ This project analyzes sentiment in cryptocurrency-related Reddit subreddits usin
 
 ## Tableau Dashboard
 
-🔗 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/your_username/viz/your_dashboard_link)
+🔗 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/ojas.kittur/viz/cryptoSentimentAnalysis/Dashboard2)
 
 ## Technologies Used
 
