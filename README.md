@@ -9,7 +9,6 @@ This project analyzes sentiment in cryptocurrency-related Reddit subreddits usin
 - `dataset/`: Dataset used 
 - `models/`: Trained ML models
 - `outputs/`: Results
-- `tableau/`: Screenshots and public Tableau dashboard link
 
 ## Tableau Dashboard
 
