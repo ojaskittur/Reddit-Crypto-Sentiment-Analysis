@@ -4,11 +4,12 @@ This project analyzes sentiment in cryptocurrency-related Reddit subreddits usin
 
 ## Project Structure
 
-- `scraper/`: Python script to scrape Reddit posts/comments using PRAW
+- `scraping/`: Python script to scrape Reddit posts/comments using PRAW
 - `notebooks/`: Jupyter notebooks for data cleaning, analysis, and modeling
-- `dataset/`: Dataset used 
-- `models/`: Trained ML models
-- `outputs/`: Results
+
+## Dataset
+
+🔗 [View Dataset](https://www.kaggle.com/datasets/ojaskittur/cryptoredditdata/data)
 
 ## Tableau Dashboard
 
